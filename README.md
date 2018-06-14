@@ -1,11 +1,18 @@
 # GetSetCodeKerala 100-days-of-code
 
 ## Participants
+<!-- ++++++++++++++++++++++++ FORMAT ++++++++++++++++++++++++++++++++
+==================================================================
+**<entry_num>** [<name>](<link to your github>) -->
+
 **1** [Jithin Das](https://github.com/jithindasad)
 
 
 # Daily Log
-<!-- Day 0: February 30, 2016 (Example 1)
+<!--
+++++++++++++++++++++++++ FORMAT ++++++++++++++++++++++++++++++++
+==================================================================
+### Day 0: February 30, 2016 (Example 1)
 (delete me or comment me out)
 
 Today's Progress: Fixed CSS, worked on canvas functionality for the app.
