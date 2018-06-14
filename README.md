@@ -1,6 +1,7 @@
-# GetSetCodeKerala 100-days-of-code
+# GetSetCodeKerala 100-days-of-code  :fire:  :rocket:
+Official Repository of GetSetCodeKerala where the participants login their daily logs as a part of 100DaysOfCodeChallenge
 
-## Participants
+## Participants  :trollface:
 <!-- ++++++++++++++++++++++++ FORMAT ++++++++++++++++++++++++++++++++
 ==================================================================
 **<entry_num>** [<name>](<link to your github>) -->
@@ -8,7 +9,7 @@
 **1** [Jithin Das](https://github.com/jithindasad)
 
 
-# Daily Log
+# Daily Log  :chart_with_upwards_trend:  :trophy:
 <!--
 ++++++++++++++++++++++++ FORMAT ++++++++++++++++++++++++++++++++
 ==================================================================
@@ -25,3 +26,5 @@ Thoughts: I really struggled with CSS, but, overall, I feel like I am slowly get
 **Today's Progress:** Created the log repo and wrote readme.md
 
 **Thoughts:** I really hope I can continue this for next 100 days with my peers of getsetcode, Lets break a leg
+
+**Name:** Jithin
