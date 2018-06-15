@@ -7,7 +7,7 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 **<entry_num>** [<name>](<link to your github>) -->
 
 **1** [Jithin Das](https://github.com/jithindasad)
-
+**2** [Geon George](https://github.com/geongeorge)
 
 # Daily Log  :chart_with_upwards_trend:  :trophy:
 <!--
