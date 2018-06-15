@@ -31,3 +31,11 @@ Thoughts: I really struggled with CSS, but, overall, I feel like I am slowly get
 **Thoughts:** I really hope I can continue this for next 100 days with my peers of getsetcode, Lets break a leg
 
 **Name:** Jithin
+
+### Day 0: June 15, 2018
+
+**Today's Progress**: Made login work
+
+**Thoughts**: Trying to work with Django Rest Framework and ReactJS. This is the first time I'm working with these 2 stacks and I'm learning on the way. Now the next thing I'm gonna do is making a user profile page and home page.
+
+**Name** : Subin
