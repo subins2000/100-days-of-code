@@ -48,7 +48,7 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
 ### Day 0: June 16, 2018
 
-**Today's Progress**: Changed flovor details of XView app, found the correct API to be used.
+**Today's Progress**: Changed flavor details of XView app, found the correct API to be used.
 
 **Thoughts**: Bud still not resolved
 
