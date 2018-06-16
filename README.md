@@ -11,6 +11,7 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 **3** [Adarsh Ajith](https://github.com/aadarsh1995)
 **4** [Abhinav Gautam](https://github.com/Gotham13121997)
 **5** [Subin Siby](https://github.com/subins2000)
+**6** [Joseph Varghese](https://github.com/iamjosephvarghese)
 
 
 # Daily Log  :chart_with_upwards_trend:  :trophy:
@@ -43,3 +44,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 **Thoughts**: Trying to work with Django Rest Framework and ReactJS. This is the first time I'm working with these 2 stacks and I'm learning on the way. Now the next thing I'm gonna do is making a user profile page and home page.
 
 **Name** : Subin
+
+### Day 0: June 16, 2018
+
+**Today's Progress**: Changed details reagrding flavors of XView app, found the correct API to be used.
+
+**Thoughts**: Bug still unresolved
+
+**Name** : Joseph Varghese
