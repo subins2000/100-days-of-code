@@ -10,6 +10,7 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 **2** [Geon George](https://github.com/geongeorge)
 **3** [Adarsh Ajith](https://github.com/aadarsh1995)
 **4** [Abhinav Gautam](https://github.com/Gotham13121997)
+**5** [Subin Siby](https://github.com/subins2000)
 
 
 # Daily Log  :chart_with_upwards_trend:  :trophy:
@@ -19,9 +20,12 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 ### Day 0: February 30, 2016 (Example 1)
 (delete me or comment me out)
 
-Today's Progress: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:** Fixed CSS, worked on canvas functionality for the app.
 
-Thoughts: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. -->
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Name:** John
+-->
 
 ### Day 0: June 14, 2018
 **(delete me or comment me out)**
@@ -31,3 +35,11 @@ Thoughts: I really struggled with CSS, but, overall, I feel like I am slowly get
 **Thoughts:** I really hope I can continue this for next 100 days with my peers of getsetcode, Lets break a leg
 
 **Name:** Jithin
+
+### Day 0: June 15, 2018
+
+**Today's Progress**: Made login work
+
+**Thoughts**: Trying to work with Django Rest Framework and ReactJS. This is the first time I'm working with these 2 stacks and I'm learning on the way. Now the next thing I'm gonna do is making a user profile page and home page.
+
+**Name** : Subin
