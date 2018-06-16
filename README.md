@@ -50,6 +50,6 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
 **Today's Progress**: Changed flavor details of XView app, found the correct API to be used.
 
-**Thoughts**: Bud still not resolved
+**Thoughts**: Bug still not resolved
 
 **Name** : Joseph Varghese
