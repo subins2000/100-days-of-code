@@ -11,6 +11,7 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 **3** [Adarsh Ajith](https://github.com/aadarsh1995)
 **4** [Abhinav Gautam](https://github.com/Gotham13121997)
 **5** [Subin Siby](https://github.com/subins2000)
+**6** [Vishnu M](https://github.com/Vishnu-M)
 
 
 # Daily Log  :chart_with_upwards_trend:  :trophy:
