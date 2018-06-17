@@ -62,3 +62,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 **Thoughts**: reading a book is tiring but brain.fm make's it less tiring. I should do this more often
 
 **Name** : Jithin
+
+### Day 1: June 17, 2018
+
+**Today's Progress**: Made Token Authorization work
+
+**Thoughts**: Watching the world cup matches these days. And spending less time on code. But my small app's progressing. Successfully saved auth token in client side. Now next step is to make the home page for the user.
+
+**Name** : Subin
