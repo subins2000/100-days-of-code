@@ -54,3 +54,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 **Thoughts**: Bug still not resolved
 
 **Name** : Joseph Varghese
+
+### Day 1: June 16, 2018
+
+**Today's Progress**: started diving deep into ruby as prep before upcoming bootcamp.
+
+**Thoughts**: reading a book is tiring but brain.fm make's it less tiring. I should do this more often
+
+**Name** : Jithin
