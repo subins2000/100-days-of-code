@@ -62,3 +62,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 **Thoughts**: reading a book is tiring but brain.fm make's it less tiring. I should do this more often
 
 **Name** : Jithin
+
+### Day 1: June 17, 2018
+
+**Today's Progress**: Ad is now available in offline mode also.
+
+**Thoughts**: Just a ! made the difference. Hard task when you have initial code developed by another developer.
+
+**Name** : Joseph Varghese
