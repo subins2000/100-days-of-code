@@ -77,3 +77,10 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
 **Name** : Subin
 
+### Day 1: June 18,2018
+
+**Today's Progress**: Made application inaccessible if usb is not connected, Improved Auto-updater
+
+**Thoughts**: Deadline is closing I am on fire 
+
+**Name**: Abhinav
