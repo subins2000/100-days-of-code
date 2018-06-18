@@ -84,3 +84,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 **Thoughts**: Deadline is closing I am on fire 
 
 **Name**: Abhinav
+
+### Day 2: June 18, 2018
+
+**Today's Progress**: Testing XView app. Started work on Xwards Chatbot. Learning JS.
+
+**Thoughts**: Should I go with Firebase for webhooks for the chatbot or some other service.......thinking!!!
+
+**Name** : Joseph Varghese
