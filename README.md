@@ -84,3 +84,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 **Thoughts**: Deadline is closing I am on fire 
 
 **Name**: Abhinav
+
+### Day 2: June 18, 2018
+
+**Today's Progress**: Basic dashboard page, login flow
+
+**Thoughts**: Today I did stuff way better than other days. Bootstrap is cool. But since I started and familiarized with Materializecss, I'm missing some features of it. Next is to beautify the dashboard page and allow users to add books. BTW, I'm making a book exchange platform.
+
+**Name** : Subin
