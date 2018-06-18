@@ -70,3 +70,10 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 **Thoughts**: Just a ! made the difference. Hard task when you have initial code developed by another developer.
 
 **Name** : Joseph Varghese
+
+**Today's Progress**: Made Token Authorization work
+
+**Thoughts**: Watching the world cup matches these days. And spending less time on code. But my small app's progressing. Successfully saved auth token in client side. Now next step is to make the home page for the user.
+
+**Name** : Subin
+
