@@ -100,3 +100,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
 **Name** : Subin
 
+### Day 3: June 19, 2018
+
+**Today's Progress**: Made basic flow for bot. More JS. Made changes to XView repo in gitlab.
+
+**Thoughts**: I will go with Firebase for now. Need to make XView app ready for beta tomorrow.
+
+**Name** : Joseph Varghese
+
