@@ -65,17 +65,17 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
 ### Day 1: June 17, 2018
 
-**Today's Progress**: Ad is now available in offline mode also.
+*   **Today's Progress**: Ad is now available in offline mode also.
 
-**Thoughts**: Just a ! made the difference. Hard task when you have initial code developed by another developer.
+    **Thoughts**: Just a ! made the difference. Hard task when you have initial code developed by another developer.
 
-**Name** : Joseph Varghese
+    **Name** : Joseph Varghese
 
-**Today's Progress**: Made Token Authorization work
+*   **Today's Progress**: Made Token Authorization work
 
-**Thoughts**: Watching the world cup matches these days. And spending less time on code. But my small app's progressing. Successfully saved auth token in client side. Now next step is to make the home page for the user.
+    **Thoughts**: Watching the world cup matches these days. And spending less time on code. But my small app's progressing. Successfully saved auth token in client side. Now next step is to make the home page for the user.
 
-**Name** : Subin
+    **Name** : Subin
 
 ### Day 1: June 18,2018
 
@@ -84,3 +84,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 **Thoughts**: Deadline is closing I am on fire 
 
 **Name**: Abhinav
+
+### Day 2: June 18, 2018
+
+**Today's Progress**: Basic dashboard page, login flow
+
+**Thoughts**: Today I did stuff way better than other days. Bootstrap is cool. But since I started and familiarized with Materializecss, I'm missing some features of it. Next is to beautify the dashboard page and allow users to add books. BTW, I'm making a book exchange platform.
+
+**Name** : Subin
