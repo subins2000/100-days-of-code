@@ -99,10 +99,19 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
     **Name** : Subin
 
+
 ### Day 3: June 19, 2018
+
+**Today's Progress**: Made basic flow for bot. More JS. Made changes to XView repo in gitlab.
+
+**Thoughts**: I will go with Firebase for now. Need to make XView app ready for beta tomorrow.
+
+**Name** : Joseph Varghese
+
 
 **Today's Progress**: Bugfixes, Discovered Redux
 
 **Thoughts**: Tried to make the header different for logged in user and guest users. Then I learnt there's a thing called React Redux for storing global states. Now I have to learn that. ReactJS is a rabbit-hole that goes wayyy deeeep.
 
 **Name** : Subin
+
