@@ -87,18 +87,18 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
 ### Day 2: June 18, 2018
 
+*   **Today's Progress**: Testing XView app. Started work on Xwards Chatbot. Learning JS.
 
-**Today's Progress**: Testing XView app. Started work on Xwards Chatbot. Learning JS.
+    **Thoughts**: Should I go with Firebase for webhooks for the chatbot or some other service.......thinking!!!
 
-**Thoughts**: Should I go with Firebase for webhooks for the chatbot or some other service.......thinking!!!
+    **Name** : Joseph Varghese
 
-**Name** : Joseph Varghese
+*   **Today's Progress**: Basic dashboard page, login flow
 
-**Today's Progress**: Basic dashboard page, login flow
+    **Thoughts**: Today I did stuff way better than other days. Bootstrap is cool. But since I started and familiarized with Materializecss, I'm missing some features of it. Next is to beautify the dashboard page and allow users to add books. BTW, I'm making a book exchange platform.
 
-**Thoughts**: Today I did stuff way better than other days. Bootstrap is cool. But since I started and familiarized with Materializecss, I'm missing some features of it. Next is to beautify the dashboard page and allow users to add books. BTW, I'm making a book exchange platform.
+    **Name** : Subin
 
-**Name** : Subin
 
 ### Day 3: June 19, 2018
 
@@ -107,4 +107,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 **Thoughts**: I will go with Firebase for now. Need to make XView app ready for beta tomorrow.
 
 **Name** : Joseph Varghese
+
+
+**Today's Progress**: Bugfixes, Discovered Redux
+
+**Thoughts**: Tried to make the header different for logged in user and guest users. Then I learnt there's a thing called React Redux for storing global states. Now I have to learn that. ReactJS is a rabbit-hole that goes wayyy deeeep.
+
+**Name** : Subin
 
