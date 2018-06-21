@@ -114,9 +114,7 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
 **Name** : Subin
 
-
 ### Day 4: June 20, 2018
-
 
 **Today's Progress**: Trying to work with redux
 
@@ -130,3 +128,10 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
 **Name** : Joseph Varghese
 
+### Day 5: June 21, 2018
+
+**Today's Progress**: User info stored with Redux and persisted (localstorage), able to display user info on header now
+
+**Thoughts**: Progressed more with redux. I'm understanding it more. Did a lotta work today. 3AM now :P
+
+**Name** : Subin
