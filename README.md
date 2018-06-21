@@ -114,10 +114,19 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
 **Name** : Subin
 
+
 ### Day 4: June 20, 2018
+
 
 **Today's Progress**: Trying to work with redux
 
 **Thoughts**: Official Redux docs is difficut to understand for a beginner, but then I [read this simple explanation](https://dev.to/hemanth/explain-redux-like-im-five). Now I kinda got an idea. Have to learn more.
 
 **Name** : Subin
+
+**Today's Progress**: XView necessary changes made, alpha testing completed and pushed to beta. Looked into ML Kit documentation.
+
+**Thoughts**: There are bugs even now, should be resolved with minor updates. Needs too check status of aws. Pending Works!!!!!
+
+**Name** : Joseph Varghese
+
