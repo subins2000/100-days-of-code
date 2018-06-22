@@ -130,3 +130,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
 **Name** : Joseph Varghese
 
+### Day 5: June 21, 2018
+
+**Today's Progress**: Changes made in XView codebase.
+
+**Thoughts**: Cannot change dependencies of configuration ':app:api' after it has been included in dependency resolution. dataBinding. Learning new things.
+
+**Name** : Joseph Varghese
+
