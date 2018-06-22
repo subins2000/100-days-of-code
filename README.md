@@ -108,14 +108,21 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
 **Name** : Joseph Varghese
 
-
 **Today's Progress**: Bugfixes, Discovered Redux
 
 **Thoughts**: Tried to make the header different for logged in user and guest users. Then I learnt there's a thing called React Redux for storing global states. Now I have to learn that. ReactJS is a rabbit-hole that goes wayyy deeeep.
 
 **Name** : Subin
 
+
 ### Day 4: June 20, 2018
+
+
+**Today's Progress**: Trying to work with redux
+
+**Thoughts**: Official Redux docs is difficut to understand for a beginner, but then I [read this simple explanation](https://dev.to/hemanth/explain-redux-like-im-five). Now I kinda got an idea. Have to learn more.
+
+**Name** : Subin
 
 **Today's Progress**: XView necessary changes made, alpha testing completed and pushed to beta. Looked into ML Kit documentation.
 
