@@ -130,8 +130,16 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
 ### Day 5: June 21, 2018
 
+
+**Today's Progress**: Changes made in XView codebase.
+
+**Thoughts**: Cannot change dependencies of configuration ':app:api' after it has been included in dependency resolution. dataBinding. Learning new things.
+
+**Name** : Joseph Varghese
+
 **Today's Progress**: User info stored with Redux and persisted (localstorage), able to display user info on header now
 
 **Thoughts**: Progressed more with redux. I'm understanding it more. Did a lotta work today. 3AM now :P
 
 **Name** : Subin
+
