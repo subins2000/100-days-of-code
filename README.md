@@ -57,7 +57,7 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
 ### Day 1: June 16, 2018
 
-*   **Today's Progress**: started diving deep into ruby as prep before upcoming bootcamp.
+   **Today's Progress**: started diving deep into ruby as prep before upcoming bootcamp.
 
     **Thoughts**: reading a book is tiring but brain.fm make's it less tiring. I should do this more often
 
@@ -65,13 +65,13 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
 ### Day 1: June 17, 2018
 
-*   **Today's Progress**: Ad is now available in offline mode also.
+   **Today's Progress**: Ad is now available in offline mode also.
 
     **Thoughts**: Just a ! made the difference. Hard task when you have initial code developed by another developer.
 
     **Name** : Joseph Varghese
 
-*   **Today's Progress**: Made Token Authorization work
+   **Today's Progress**: Made Token Authorization work
 
     **Thoughts**: Watching the world cup matches these days. And spending less time on code. But my small app's progressing. Successfully saved auth token in client side. Now next step is to make the home page for the user.
 
@@ -87,13 +87,13 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
 ### Day 2: June 18, 2018
 
-*   **Today's Progress**: Testing XView app. Started work on Xwards Chatbot. Learning JS.
+   **Today's Progress**: Testing XView app. Started work on Xwards Chatbot. Learning JS.
 
     **Thoughts**: Should I go with Firebase for webhooks for the chatbot or some other service.......thinking!!!
 
     **Name** : Joseph Varghese
 
-*   **Today's Progress**: Basic dashboard page, login flow
+   **Today's Progress**: Basic dashboard page, login flow
 
     **Thoughts**: Today I did stuff way better than other days. Bootstrap is cool. But since I started and familiarized with Materializecss, I'm missing some features of it. Next is to beautify the dashboard page and allow users to add books. BTW, I'm making a book exchange platform.
 
@@ -101,7 +101,7 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
 ### Day 2: June 21, 2018
 
-*   **Today's Progress**: More into ruby.
+   **Today's Progress**: More into ruby.
 
     **Thoughts**: very slow progress due to travel and other env issues
 
@@ -110,13 +110,13 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
 ### Day 3: June 19, 2018
 
-*    **Today's Progress**: Made basic flow for bot. More JS. Made changes to XView repo in gitlab.
+    **Today's Progress**: Made basic flow for bot. More JS. Made changes to XView repo in gitlab.
 
     **Thoughts**: I will go with Firebase for now. Need to make XView app ready for beta tomorrow.
 
     **Name** : Joseph Varghese
 
-*    **Today's Progress**: Bugfixes, Discovered Redux
+    **Today's Progress**: Bugfixes, Discovered Redux
 
     **Thoughts**: Tried to make the header different for logged in user and guest users. Then I learnt there's a thing called React Redux for storing global states. Now I have to learn that. ReactJS is a rabbit-hole that goes wayyy deeeep.
 
@@ -124,7 +124,7 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
 ### Day 3: June 21, 2018
 
-*   **Today's Progress**: Tried out building a gem.
+   **Today's Progress**: Tried out building a gem.
 
     **Thoughts**: very slow progress , Have to manage working/learning time effectively for a boost
 
@@ -132,13 +132,13 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
 ### Day 4: June 20, 2018
 
-*    **Today's Progress**: Trying to work with redux
+    **Today's Progress**: Trying to work with redux
 
     **Thoughts**: Official Redux docs is difficut to understand for a beginner, but then I [read this simple explanation](https://dev.to/hemanth/explain-redux-like-im-five). Now I kinda got an idea. Have to learn more.
 
     **Name** : Subin
 
-*   **Today's Progress**: XView necessary changes made, alpha testing completed and pushed to beta. Looked into ML Kit documentation.
+   **Today's Progress**: XView necessary changes made, alpha testing completed and pushed to beta. Looked into ML Kit documentation.
 
     **Thoughts**: There are bugs even now, should be resolved with minor updates. Needs too check status of aws. Pending Works!!!!!
 
@@ -147,13 +147,13 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 ### Day 5: June 21, 2018
 
 
-*    **Today's Progress**: Changes made in XView codebase.
+  **Today's Progress**: Changes made in XView codebase.
 
     **Thoughts**: Cannot change dependencies of configuration ':app:api' after it has been included in dependency resolution. dataBinding. Learning new things.
 
     **Name** : Joseph Varghese
 
-*    **Today's Progress**: User info stored with Redux and persisted (localstorage), able to display user info on header now
+   **Today's Progress**: User info stored with Redux and persisted (localstorage), able to display user info on header now
 
     **Thoughts**: Progressed more with redux. I'm understanding it more. Did a lotta work today. 3AM now :P
 
