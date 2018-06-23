@@ -172,3 +172,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
      **Thoughts**: Successfully used redux to implement the basic user functions. Redux is cool !
 
      **Name** : Subin
+
+### Day 4: June 23, 2018
+
+*    **Today's Progress**: started diving into rails. Used scaffold approach.
+
+     **Thoughts**: Rails way of doing things is fun but abstract .
+
+     **Name** : Jithin
