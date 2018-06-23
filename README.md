@@ -158,3 +158,13 @@ Official Repository of GetSetCodeKerala where the participants login their daily
     **Thoughts**: Progressed more with redux. I'm understanding it more. Did a lotta work today. 3AM now :P
 
     **Name** : Subin
+    
+   
+### Day 6: June 22, 2018
+
+
+  **Today's Progress**: Working on bot. Made simple apps with webview for a client.
+
+    **Thoughts**: Familiarising AWS the hard way. Testing in Production as always. Server is finally up again.
+
+    **Name** : Joseph Varghese   
