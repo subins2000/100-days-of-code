@@ -4,15 +4,16 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 ## Participants  :trollface:
 <!-- ++++++++++++++++++++++++ FORMAT ++++++++++++++++++++++++++++++++
 ==================================================================
-**<entry_num>** [<name>](<link to your github>) -->
+- [<name>](<link to your github>)
+-->
 
-**1** [Jithin Das](https://github.com/jithindasad)
-**2** [Geon George](https://github.com/geongeorge)
-**3** [Adarsh Ajith](https://github.com/aadarsh1995)
-**4** [Abhinav Gautam](https://github.com/Gotham13121997)
-**5** [Subin Siby](https://github.com/subins2000)
-**6** [Vishnu M](https://github.com/Vishnu-M)
-**7** [Joseph Varghese](https://github.com/iamjosephvarghese)
+- [Jithin Das](https://github.com/jithindasad)
+- [Geon George](https://github.com/geongeorge)
+- [Adarsh Ajith](https://github.com/aadarsh1995)
+- [Abhinav Gautam](https://github.com/Gotham13121997)
+- [Subin Siby](https://github.com/subins2000)
+- [Vishnu M](https://github.com/Vishnu-M)
+- [Joseph Varghese](https://github.com/iamjosephvarghese)
 
 # Daily Log  :chart_with_upwards_trend:  :trophy:
 <!--
