@@ -125,7 +125,7 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
      **Thoughts**: very slow progress , Have to manage working/learning time effectively for a boost
 
-     **Name** : Jithin    
+     **Name** : Jithin
 
 ### Day 4: June 20, 2018
 
@@ -149,7 +149,7 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
      **Name** : Joseph Varghese
 
-*    **Today's Progress**: User info stored with Redux and persisted (localstorage), able to display user info on header now
+*    **Today's Progress**: User info stored with Redux and persisted (localstorage), able to display user info  on header now
 
      **Thoughts**: Progressed more with redux. I'm understanding it more. Did a lotta work today. 3AM now :P
 
@@ -162,10 +162,18 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
      **Thoughts**: Familiarising AWS the hard way. Testing in Production as always. Server is finally up again.
 
-     **Name** : Joseph Varghese   
+     **Name** : Joseph Varghese
 
 *    **Today's Progress**: Set up logging out feature
 
      **Thoughts**: Successfully used redux to implement the basic user functions. Redux is cool !
 
      **Name** : Subin
+
+### Day 4: June 23, 2018
+
+*    **Today's Progress**: started diving into rails. Used scaffold approach.
+
+     **Thoughts**: Rails way of doing things is fun but abstract .
+
+     **Name** : Jithin
