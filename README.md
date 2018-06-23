@@ -168,3 +168,9 @@ Official Repository of GetSetCodeKerala where the participants login their daily
     **Thoughts**: Familiarising AWS the hard way. Testing in Production as always. Server is finally up again.
 
     **Name** : Joseph Varghese   
+
+*    **Today's Progress**: Set up logging out feature
+
+     **Thoughts**: Successfully used redux to implement the basic user functions. Redux is cool !
+
+     **Name** : Subin
