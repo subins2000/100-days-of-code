@@ -4,24 +4,22 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 ## Participants  :trollface:
 <!-- ++++++++++++++++++++++++ FORMAT ++++++++++++++++++++++++++++++++
 ==================================================================
-**<entry_num>** [<name>](<link to your github>) -->
+- [<name>](<link to your github>)
+-->
 
-**1** [Jithin Das](https://github.com/jithindasad)
-**2** [Geon George](https://github.com/geongeorge)
-**3** [Adarsh Ajith](https://github.com/aadarsh1995)
-**4** [Abhinav Gautam](https://github.com/Gotham13121997)
-**5** [Subin Siby](https://github.com/subins2000)
-**6** [Vishnu M](https://github.com/Vishnu-M)
-**7** [Joseph Varghese](https://github.com/iamjosephvarghese)
-
-
+- [Jithin Das](https://github.com/jithindasad)
+- [Geon George](https://github.com/geongeorge)
+- [Adarsh Ajith](https://github.com/aadarsh1995)
+- [Abhinav Gautam](https://github.com/Gotham13121997)
+- [Subin Siby](https://github.com/subins2000)
+- [Vishnu M](https://github.com/Vishnu-M)
+- [Joseph Varghese](https://github.com/iamjosephvarghese)
 
 # Daily Log  :chart_with_upwards_trend:  :trophy:
 <!--
 ++++++++++++++++++++++++ FORMAT ++++++++++++++++++++++++++++++++
 ==================================================================
 ### Day 0: February 30, 2016 (Example 1)
-(delete me or comment me out)
 
 *    **Today's Progress:** Fixed CSS, worked on canvas functionality for the app.
 
@@ -31,7 +29,6 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 -->
 
 ### Day 0: June 14, 2018
-**(delete me or comment me out)**
 
 *    **Today's Progress:** Created the log repo and wrote readme.md
 
@@ -128,7 +125,7 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
      **Thoughts**: very slow progress , Have to manage working/learning time effectively for a boost
 
-     **Name** : Jithin    
+     **Name** : Jithin
 
 ### Day 4: June 20, 2018
 
@@ -165,7 +162,7 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
      **Thoughts**: Familiarising AWS the hard way. Testing in Production as always. Server is finally up again.
 
-     **Name** : Joseph Varghese   
+     **Name** : Joseph Varghese
 
 *    **Today's Progress**: Set up logging out feature
 
@@ -180,3 +177,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
      **Thoughts**: Rails way of doing things is fun but abstract .
 
      **Name** : Jithin
+
+### Day 7: June 23, 2018
+
+*    **Today's Progress**: UI change
+
+     **Thoughts**: Didn't do much today apart from making some UI changes. Next thing to do is make a form and insert book data to database.
+
+     **Name** : Subin
