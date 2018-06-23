@@ -177,3 +177,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
      **Thoughts**: Rails way of doing things is fun but abstract .
 
      **Name** : Jithin
+
+### Day 7: June 23, 2018
+
+*    **Today's Progress**: UI change
+
+     **Thoughts**: Didn't do much today apart from making some UI changes. Next thing to do is make a form and insert book data to database.
+
+     **Name** : Subin
