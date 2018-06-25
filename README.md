@@ -193,3 +193,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
      **Thoughts**: Just cooked up something I thought was big easily. Django Rest Framework 😍😍😍
 
      **Name** : Subin
+
+### Day 9: June 25, 2018
+
+*    **Today's Progress**: Bugfixes
+
+     **Thoughts**: Tried so hard to fix a bug, didn't know what's the problem. But at the end solved it. That's a great feeling !
+
+     **Name** : Subin
