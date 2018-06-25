@@ -185,3 +185,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
      **Thoughts**: Didn't do much today apart from making some UI changes. Next thing to do is make a form and insert book data to database.
 
      **Name** : Subin
+
+### Day 8: June 24, 2018
+
+*    **Today's Progress**: Check if user logged in at beginning
+
+     **Thoughts**: Just cooked up something I thought was big easily. Django Rest Framework 😍😍😍
+
+     **Name** : Subin
