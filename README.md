@@ -194,6 +194,14 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
      **Name** : Subin
 
+### Day 5: June 25, 2018
+
+*    **Today's Progress**: used helper methods to generate dynamic contents
+
+     **Thoughts**: slow progress ! under pressure since bootcamp is approaching
+
+     **Name** : Jithin
+
 ### Day 9: June 25, 2018
 
 *    **Today's Progress**: Bugfixes
