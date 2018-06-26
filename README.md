@@ -209,3 +209,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
      **Thoughts**: Tried so hard to fix a bug, didn't know what's the problem. But at the end solved it. That's a great feeling !
 
      **Name** : Subin
+
+### Day 6: June 26, 2018
+
+*    **Today's Progress**: created a full title helper and learnt some Rails flavored ruby
+
+     **Thoughts**: Interesting fact learnt! ruby lets you edit built in class methods
+
+     **Name** : Jithin
