@@ -217,3 +217,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
      **Thoughts**: Interesting fact learnt! ruby lets you edit built in class methods
 
      **Name** : Jithin
+
+### Day 7: June 27, 2018
+
+*    **Today's Progress**: wrote small integration tests with rails, learned how the asset pipeline in rails works, used basic sass like sass variables and nesting
+
+     **Thoughts**: There sure are a lot of rails way of doing things like using named routes 
+
+     **Name** : Jithin
