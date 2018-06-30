@@ -225,3 +225,37 @@ Official Repository of GetSetCodeKerala where the participants login their daily
      **Thoughts**: There sure are a lot of rails way of doing things like using named routes 
 
      **Name** : Jithin
+
+### Day 10: June 26, 2018
+
+*    **Today's Progress**: Made an 'add book' form
+
+     **Thoughts**: Creating a new page is smooth sailing in react
+
+     **Name** : Subin
+
+### Day 11: June 27, 2018
+
+*    **Today's Progress**: Did initial setup to accept book infos
+
+     **Thoughts**: Setting up a new API endpoint is also a smooth sailing with Django REST Framework
+
+     **Name** : Subin
+
+### Day 12: June 28, 2018
+
+*    **Today's Progress**: Improved 'Add Book' form, Succesfully inserted data to DB from ReactJS form
+
+     **Thoughts**: Inserting data to DB has been pretty easy comparing with each line of code I used to do in PHP
+
+     **Name** : Subin
+
+### Day 13: June 29, 2018
+
+*    **Today's Progress**: Add `user` foreign column, tests
+
+     **Thoughts**: Learnt to link a field with another field in `users` table. It's pretty easy to do with Django models
+
+     Also wrote the first test. It's for testing the API endpoint /books/
+
+     **Name** : Subin
