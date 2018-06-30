@@ -225,3 +225,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
      **Thoughts**: There sure are a lot of rails way of doing things like using named routes 
 
      **Name** : Jithin
+
+### Day 10: June 26, 2018
+
+*    **Today's Progress**: Made an 'add book' form
+
+     **Thoughts**: Creating a new page is smooth sailing in react
+
+     **Name** : Subin
