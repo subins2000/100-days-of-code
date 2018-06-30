@@ -233,3 +233,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
      **Thoughts**: Creating a new page is smooth sailing in react
 
      **Name** : Subin
+
+### Day 11: June 27, 2018
+
+*    **Today's Progress**: Did initial setup to accept book infos
+
+     **Thoughts**: Setting up a new API endpoint is also a smooth sailing with Django REST Framework
+
+     **Name** : Subin
