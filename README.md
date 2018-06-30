@@ -241,3 +241,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
      **Thoughts**: Setting up a new API endpoint is also a smooth sailing with Django REST Framework
 
      **Name** : Subin
+
+### Day 12: June 28, 2018
+
+*    **Today's Progress**: Improved 'Add Book' form, Succesfully inserted data to DB from ReactJS form
+
+     **Thoughts**: Inserting data to DB has been pretty easy comparing with each line of code I used to do in PHP
+
+     **Name** : Subin
