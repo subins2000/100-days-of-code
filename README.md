@@ -259,3 +259,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
      Also wrote the first test. It's for testing the API endpoint /books/
 
      **Name** : Subin
+
+### Day 14: June 30, 2018
+
+*    **Today's Progress**: Updated README
+
+     **Thoughts**: Nothing much. Fixed the README to be more clear
+
+     **Name** : Subin
