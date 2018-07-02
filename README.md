@@ -275,3 +275,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
      **Thoughts**: Using Django is pretty simple. I'm loving it
 
      **Name** : Subin
+
+### Day 16: July 2, 2018
+
+*    **Today's Progress**: Show user's books
+
+     **Thoughts**: Now when user is logged in, he/she will see his/her books listed. I should add the ability to upload the book's photo too and then a separate page for each book listing all details.
+
+     **Name** : Subin
