@@ -267,3 +267,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
      **Thoughts**: Nothing much. Fixed the README to be more clear
 
      **Name** : Subin
+
+### Day 15: July 1, 2018
+
+*    **Today's Progress**: Creatd API endpoint to list user's books
+
+     **Thoughts**: Using Django is pretty simple. I'm loving it
+
+     **Name** : Subin
