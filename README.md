@@ -283,3 +283,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
      **Thoughts**: Now when user is logged in, he/she will see his/her books listed. I should add the ability to upload the book's photo too and then a separate page for each book listing all details.
 
      **Name** : Subin
+
+### Day 17: July 3, 2018
+
+*    **Today's Progress**: Added UI ability to upload photo of book
+
+     **Thoughts**: Added a file input to the form. React is a bit clumsy when it comes to this. The need to create a separate ref object for referencing elements is tiring.
+
+     **Name** : Subin
