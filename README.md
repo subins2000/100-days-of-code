@@ -259,3 +259,35 @@ Official Repository of GetSetCodeKerala where the participants login their daily
      Also wrote the first test. It's for testing the API endpoint /books/
 
      **Name** : Subin
+
+### Day 14: June 30, 2018
+
+*    **Today's Progress**: Updated README
+
+     **Thoughts**: Nothing much. Fixed the README to be more clear
+
+     **Name** : Subin
+
+### Day 15: July 1, 2018
+
+*    **Today's Progress**: Creatd API endpoint to list user's books
+
+     **Thoughts**: Using Django is pretty simple. I'm loving it
+
+     **Name** : Subin
+
+### Day 16: July 2, 2018
+
+*    **Today's Progress**: Show user's books
+
+     **Thoughts**: Now when user is logged in, he/she will see his/her books listed. I should add the ability to upload the book's photo too and then a separate page for each book listing all details.
+
+     **Name** : Subin
+
+### Day 17: July 3, 2018
+
+*    **Today's Progress**: Added UI ability to upload photo of book
+
+     **Thoughts**: Added a file input to the form. React is a bit clumsy when it comes to this. The need to create a separate ref object for referencing elements is tiring.
+
+     **Name** : Subin
