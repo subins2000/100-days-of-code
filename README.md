@@ -299,3 +299,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
      **Thoughts**: Searched a while for how to upload images via Django REST Framework. Got some inputs
 
      **Name** : Subin
+
+### Day 19: June 5, 2018
+
+*    **Today's Progress**: Upload book images, display images along with books
+
+     **Thoughts**: Again, Django is really cool and simple to work with. Got a bit troublish with REST framework in case of uploads. Apart from that, it was smooth sailing.
+
+     **Name** : Subin
