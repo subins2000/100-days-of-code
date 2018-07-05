@@ -291,3 +291,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
      **Thoughts**: Added a file input to the form. React is a bit clumsy when it comes to this. The need to create a separate ref object for referencing elements is tiring.
 
      **Name** : Subin
+
+### Day 18: June 4, 2018
+
+*    **Today's Progress**: Didn't do much
+
+     **Thoughts**: Searched a while for how to upload images via Django REST Framework. Got some inputs
+
+     **Name** : Subin
