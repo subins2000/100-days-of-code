@@ -292,7 +292,7 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
      **Name** : Subin
 
-### Day 18: June 4, 2018
+### Day 18: July 4, 2018
 
 *    **Today's Progress**: Didn't do much
 
@@ -300,7 +300,7 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
      **Name** : Subin
 
-### Day 19: June 5, 2018
+### Day 19: July 5, 2018
 
 *    **Today's Progress**: Upload book images, display images along with books
 
