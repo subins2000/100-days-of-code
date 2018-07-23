@@ -222,7 +222,7 @@ Official Repository of GetSetCodeKerala where the participants login their daily
 
 *    **Today's Progress**: wrote small integration tests with rails, learned how the asset pipeline in rails works, used basic sass like sass variables and nesting
 
-     **Thoughts**: There sure are a lot of rails way of doing things like using named routes 
+     **Thoughts**: There sure are a lot of rails way of doing things like using named routes
 
      **Name** : Jithin
 
@@ -307,3 +307,11 @@ Official Repository of GetSetCodeKerala where the participants login their daily
      **Thoughts**: Again, Django is really cool and simple to work with. Got a bit troublish with REST framework in case of uploads. Apart from that, it was smooth sailing.
 
      **Name** : Subin
+
+### Day 8: July 5, 2018
+
+*    **Today's Progress**: Added a basic user model with password security
+
+     **Thoughts**: missed out on challenge due to laptop getting damaged. resumed and on fire.
+
+     **Name** : Jithin
