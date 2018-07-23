@@ -315,3 +315,13 @@ Official Repository of GetSetCodeKerala where the participants login their daily
      **Thoughts**: missed out on challenge due to laptop getting damaged. resumed and on fire.
 
      **Name** : Jithin
+
+### Day 36: July 22, 2018
+
+*    **Today's Progress**: Now there's a user profile, book page and a lot of bugfixes
+
+     **Thoughts**: Progressed much in the last 17 days, but didn't update it here :/
+
+     My GitHub contribution wall is on a streak from June 15. Gotta continue this forever :)
+
+     **Name** : Subin
